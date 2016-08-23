@@ -1,0 +1,10 @@
+
+{
+  "name": "swagger-demo",
+  "runtime": "golang",
+  "description": "a demo of a swagger/apex/AWS stack",
+  "memory": 128,
+  "timeout": 5,
+  "role": "arn:aws:iam::741450390541:role/swagger-demo_lambda_function",
+  "environment": {}
+}
